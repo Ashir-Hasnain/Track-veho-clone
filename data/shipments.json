@@ -1,0 +1,38 @@
+{
+  "travelHistory": [
+    {
+      "date": "Thursday, 7/30/26",
+      "events": [
+        { "time": "12:00 AM", "status": "Picked up", "location": "Dallas, TX" },
+        { "time": "2:52 PM", "status": "Shipment information sent to FedEx", "location": "Dallas, TX" },
+        { "time": "6:16 PM", "status": "Arrived at FedEx location", "location": "Dallas, TX" },
+        { "time": "", "status": "Left FedEx origin facility", "location": "" },
+        { "time": "", "status": "Arrived at FedEx location", "location": "" }
+      ]
+    },
+    {
+      "date": "",
+      "events": [
+        { "time": "", "status": "In process", "location": "Dallas, TX", "isDelivered": false }
+      ]
+    }
+  ],
+  "shipmentFacts": {
+    "overview": {
+      "trackingNumber": "382803860875",
+      "shipDate": "7/24/2026",
+      "standardTransit": "7/27/2026",
+      "delivered": "7/27/2026 at 11:12 am"
+    },
+    "services": {
+      "service": "FedEx Ground",
+      "terms": "Shipper"
+    },
+    "packageDetails": {
+      "weight": "2.5 lbs / 1.13 kgs",
+      "dimensions": "11x9x3 in.",
+      "totalPieces": 1,
+      "packaging": "Package"
+    }
+  }
+}
